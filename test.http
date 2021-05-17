@@ -1,0 +1,8 @@
+POST http://localhost:2100/info/registration
+Content-Type: "application/json"
+
+{
+  "name": "Peter1",
+  "email": "peter1@gmail.com",
+  "password": "peter245"
+}
